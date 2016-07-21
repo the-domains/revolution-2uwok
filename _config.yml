@@ -1,0 +1,14 @@
+layout_spectrum: 0.8792526558972895
+typography_spectrum: 0.940609113778919
+color:
+  brandStrength: 0.2154305037111044
+  lightness: 0.3460013528820127
+  saturation: 0.3138257274404168
+  rhythmicContrast: 0.13016142207197845
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Revolution
